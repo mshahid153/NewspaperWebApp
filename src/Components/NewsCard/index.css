@@ -1,0 +1,8 @@
+.news-card-container{
+    background-color: #F2D4D6;
+    transition: all 0.3s;
+}
+
+.news-card-container:hover{
+    transform: scale(1.10);
+}

@@ -1,0 +1,48 @@
+.navbar-container{
+    height: 80px;
+    width: 100%;
+    background-color: #E1B0AC;
+}
+
+.navbar-container h1{
+    padding-top: 5px;
+    font-size: 27px;
+    margin-left: 15px;
+}
+
+@media screen and (max-width: 576px) {
+    .navbar-container{
+        height: 70px;
+    }
+}
+
+.epaper-logo-img,.search-img{
+    width: 35px;
+    object-fit: contain;
+}
+
+@media screen and (max-width: 576px) {
+    .epaper-logo-img,.search-img{
+        width: 28px;
+    }
+}
+
+.brand-logo-img{
+    width: 430px;
+    height: 90px;
+}
+
+@media screen and (max-width: 576px) {
+    .brand-logo-img{
+        width: 220px;
+        object-fit: contain;
+        padding-left: 10px;
+    }
+}
+
+@media screen and (min-width: 576px) and (max-width: 768px) {
+    .brand-logo-img{
+        width: 300px;
+        object-fit: contain;
+    }
+}
