@@ -1,4 +1,4 @@
-# React News App
+# React NewPaper WebApp
 
 Developed a news application using React, incorporating various features to enhance user experience and accessibility.
 

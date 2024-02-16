@@ -6,7 +6,7 @@ const TabNews = props => {
     const filteredArticles = articles.filter(article => article.tabId === category)
     return (
         <div className="container">
-            <div className="row d-flex align-content-center py-3"> 
+            <div className="row d-flex justify-content-center py-3"> 
                 {filteredArticles.map(eachNews => (<NewsCard articles={eachNews} key= {eachNews.id} />))}
             </div>
         </div>

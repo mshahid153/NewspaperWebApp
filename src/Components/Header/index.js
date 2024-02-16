@@ -5,7 +5,7 @@ import './index.css'
 import 'bootstrap/dist/css/bootstrap.min.css'
 
 const tabsList = [
-    {tabId: '/', displayText: 'Home'},
+    {tabId: '', displayText: 'Home'},
     {tabId: 'latest', displayText: 'Latest'},
     {tabId: 'world', displayText: 'World'},
     {tabId: 'india', displayText: 'India'},

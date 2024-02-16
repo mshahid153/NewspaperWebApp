@@ -7,7 +7,7 @@ const NewsCard = ({ articles }) => {
 
     return (
         <div className="col-12 col-md-5 col-lg-3 my-3">
-            <div className="card news-card-container shadow" style={{ width: '18rem' }}>
+            <div className="card news-card-container shadow">
             <img src={imageUrl} className="card-img-top" alt="news-img" />
             <div className="card-body">
               <h5 className="card-title">{title}</h5>

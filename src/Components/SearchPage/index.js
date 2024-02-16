@@ -24,13 +24,13 @@ class SearchPage extends Component {
         const searchResults = this.getSearchResults().sort(() => Math.random() - 0.5)
 
         return(
-            <div className='d-flex flex-column align-items-start align-items-md-center'>
-                <div className='search-input-container mt-3  ms-3'>
+            <div className='d-flex flex-column align-items-center'>
+                <div className='search-input-container mt-3'>
                     <input type="text" value={searchInput} onChange={this.onChangeSearchInput} className="search-input" id="floatingSearch" placeholder="Search" />
                     <img src="https://i.postimg.cc/nVN6Vn7z/serach-logo.png" alt='search-img' className='search-icon' />
                 </div>
                 <div className='container'>
-                    <div className='row search-bar-container my-2'>
+                    <div className='row d-flex justify-content-center my-2'>
                         {searchResults.map(eachNews => (<NewsCard articles={eachNews} key={eachNews.id} />))}
                     </div>
                 </div>

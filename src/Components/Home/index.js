@@ -10,7 +10,7 @@ const Home = props => {
                 return(
                         <div className='latest-news-container col-2 shadow rounded d-none d-md-block' style={{backgroundColor: '#F2D4D6'}}>
                                 <h1 className='news-category-title fs-4 text-center my-3 fw-bold pb-3 border-bottom border-3 border-solid border-dark'>
-                                        [ Latest News ]
+                                        [ Latest ]
                                 </h1>
                                 {latestNews.map(eachNews => (<SidebarNews articles={eachNews} key= {eachNews.id} />))}
                         </div>
@@ -44,7 +44,7 @@ const Home = props => {
 
         return(
         <div className='container'>
-                <div className='row home-news-container w-100 justify-content-around py-3'>
+                <div className='row home-news-container justify-content-around py-3'>
                         {getLatestNews()}
                         {getTopNews()}
                         {getViralNews()}

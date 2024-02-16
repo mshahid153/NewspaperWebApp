@@ -14,7 +14,7 @@ let articles = [
      title: 'Day 3 protest: Farmers to block trains today, hold round 3 talks with Centre',
      content: 'Farmers Delhi Chalo protest: 3 Union ministers will meet farmers leaders in Chandigarh for the third round of talks amid stand-off at Haryana, Punjab borders.Several major farmers’ unions have extended their support to the protesting farmer unions at Shambhu border and Khanauri border in Punjab, with the Bharatiya Kisan Union (Ugrahan) and BKU Dakaunda (Dhaner faction) announcing a ‘rail roko’ (stop trains) in the state on Thursday between 12 noon and 4 pm on Thursday, February 15. The Samyukt Kisan Morcha, an umbrella body of 37 farm unions, have also supported the ongoing protests. The protesters are demanding a minimum support price or MSP for their crops.A protester uses water to disperse tear gas, as farmers march towards New Delhi to press for better crop prices promised to them in 2021, at Shambhu, a border crossing between Punjab and Haryana. (REUTERS)A protester uses water to disperse tear gas, as farmers march towards New Delhi to press for better crop prices promised to them in 2021, at Shambhu, a border crossing between Punjab and Haryana. (REUTERS)These unions had played key roles in the protests on Delhi’s fringes in 2021 and have joined the current protests citing the “condemnable use of violence” against farmers. BKU (Ugrahan) general secretary Sukhdev Singh Kokri Kalan has slammed the police action.Discover the thrill of cricket like never before, exclusively on HT. Explore now! “We stand with them in solidarity. To prove it, our supporters will hold rail roko (stop trains) at as many places as we can,” he announced. The organisation will block train tracks in Punjab between 12pm and 4pm on Thursday, he said, a day before the larger nationwide strike planned for February 16. Follow Live Updates on farmers protest',
      author: 'Deebak Kumar',
-     publishedDate: '2024-02-15',
+     publishedDate: 'Feb 16, 2024',
      imageUrl: 'https://i.postimg.cc/Bb7xRrS1/INDIA-FARMERS-PROTESTS-28-1707958565170-1707958594541.avif',
      tabId : 'india'
   },
@@ -23,7 +23,7 @@ let articles = [
      title: 'Maharashtra Speaker rejects plea to disqualify MLAs of Ajit Pawar faction',
      content: `Maharashtra Assembly Speaker Rahul Narwekar on Thursday dismissed the petitions to disqualify MLAs belonging to Ajit Pawa'sr faction, ruling that his faction substantially outnumbered the Sharad Pawar faction in the state legislature.NCP founder-leader Sharad Pawar and nephew Ajit Pawar (left).NCP founder-leader Sharad Pawar and nephew Ajit Pawar (left).“I hold that the Ajit Pawar faction enjoys an overwhelming majority within the NCP,” Narwekar declared while delivering a verdict on the disqualification petitions filed by the two factions within the Nationalist Congress Party (NCP) against each other.`,
      author: 'Patel',
-     publishedDate: '2024-02-12',
+     publishedDate: 'Feb 14, 2024',
      imageUrl: 'https://i.postimg.cc/brYxKPKq/ajit-pawar-sharad-pawar-ncp-mla-1707996459277-1707996459456.jpg',
      tabId : 'india'
  },
@@ -32,7 +32,7 @@ let articles = [
      title: 'India’s 1st helicopter emergency medical service to start from Uttarakhand',
      content: 'Dehradun: India’s first Helicopter Emergency Medical Service (HEMS) will be started from Uttarakhand, Union aviation minister Jyotiraditya Scindia said on Thursday.Helicopter Emergency Medical Services (HEMS) would operate under project Sanjeevani (Representative Photo)Helicopter Emergency Medical Services (HEMS) would operate under project Sanjeevani (Representative Photo)Scindia on X informed that a helicopter will be deployed at All Indian Institute of Medical Science in Rishikesh from where it can be sent anywhere within a radius area of 150 km to airlift the people to the hospital.Discover the thrill of cricket like never before, exclusively on HT. Explore now!He said that HEMS would operate under project ‘Sanjeevani’. The helicopter is being assembled at present and is under the certification process. “Assembly and certification of the helicopter to be deployed for the purpose is underway. It is on my dashboard. It is entirely my concern now not yours,” Scindia said.The development comes a day after Scindia virtually inaugurated the newly constructed terminal building (phase-2) at Jolly Grant Airport Dehradun along with chief minster Pushkar Singh Dhami, who joined the event from Jolly Grant Airport.Scindia said the terminal built at a cost of ₹486 crore will be capable of serving 3,240 passengers during peak hours and 4.7 million passengers annually.Elaborating on efforts to improve air connectivity in the state, Scindia said, “The government is upgrading three airports in Uttarakhand which include Dehradun, Pant Nagar, Pithoragarh.” The number of heliports will be increased to 21 in the upcoming years, he said.In December, the Uttarakhand cabinet approved Uttarakhand Helipad and Heliport Policy 2023 to meet the challenges in accessing remote areas in the hilly regions of the state, especially where emergency medical and disaster-related services are required.The policy was proposed by the Uttarakhand Civil Aviation Development Authority (UCADA), which is the nodal body for the development of civil aviation infrastructure and ecosystems in the state. The policy has been prepared under the Empowered Uttarakhand Mission of the state government.',
      author: 'Rakesh Raj',
-     publishedDate: '2024-02-15',
+     publishedDate: 'Feb 13, 2024',
      imageUrl: 'https://i.postimg.cc/HkLpjNCj/Helicopter-Emergency-Medical-Services-HEMS-would-1707997905683.avif',
      tabId : 'india'
  },
@@ -41,7 +41,7 @@ let articles = [
      title: `PM Modi's graph high, see what happened in Qatar: BJP reacts to farmer leader's viral video`,
      content: `BJP leader Ravi Shankar Prasad on Thursday said Prime Minister Narendra Modi's graph is huge and an example of that is how Qatar released the Navy veterans who were given death sentences earlier. The BJP leader's comment came in reaction to farmer leader Jagjit Singh Dallewal's viral video in which the farmer leader purportedly said that they have to bring 'PM Modi's graph down' which went up after the inauguration of the Ram Temple. "Yes, I have seen the video though I don't want to comment on that. PM Modi's graph is big for a long time. He is a world leader. You have seen what happened in Abu Dhabi. In Qatar, our Navy veterans were going to be hanged but they were released. So be it in the country or outside, PM Modi's graph is big because of his honest work," the BJP leader said.BJP said PM Modi's graph has been very high for quite some time now. (PTI)BJP said PM Modi's graph has been very high for quite some time now. (PTI)Farmers protest: Follow LIVE updatesDiscover the thrill of cricket like never before, exclusively on HT. Explore now!Jagjit Singh Dallewal's video has become the latest political flashpoint as the farmers who called the Chalo Dilli march termed their protest as non-political. Information and broadcasting ministry advisor Kanchan Gupta shared the video of Dallewal and said the actual agenda of the farmers stands exposed. "Modi's graph has gone up a lot after Ram Mandir. That's a loss. How can his graph be brought down," Dallewal purportedly said in the video.Punjab farmers have been camping on the borders of Punjab and Haryana for the last three days as the Haryana police foiled their attempt to enter Haryana and then travel to Delhi according to their 'Chalo Dilli' march called on February 13. The third round of talks between the protesters and the Central delegation will take place in Chandigarh on Thursday. Haryana chief minister Manohar Lal Khattar condemned the ongoing protest and said the farmers have right to go to Delhi but not like an army with tractors and earthmovers; they can use public transport, the chief minister said asserting that Haryana police will continue resisting them on the border. Dallewal's statement was a straight political one, the Haryana chief minister said.`,
      author: 'Khurshid Shamsuddin',
-     publishedDate: '2024-02-11',
+     publishedDate: 'Feb 12, 2024',
      imageUrl: 'https://i.postimg.cc/Fs69dZFZ/PM-Modi-graph-viral-video-1707997222021-1707997222257.avif',
      tabId : 'india'
  },
@@ -50,7 +50,7 @@ let articles = [
      title: `TMC's Mimi Chakraborty resigns from MP post; Mamata yet to accept`,
      content: `Trinamool Congress leader Mimi Chakraborty has announced her resignation from the post of MP, ANI reported on Thursday. The leader has reportedly handed over her resignation to Trinamool Congress chief Mamata Banerjee.Mimi Chakraborty Speaking about her resignation from the MP post Chakraborty said that though she had resigned her resignation had not been accepted by Mamata Banerjee. "I have definitely resigned, but my resignation hasn't been accepted. I have coordinated with the CM, and she assured me that she will take care of everything," Mimi Chakraborty said.Discover the thrill of cricket like never before, exclusively on HT. Explore now!“Politics is not for me. You have to promote someone here (in politics) if you are helping someone...Besides being a politician, I also work as an actor. I have equal responsibilities. If you join politics, you are criticised whether you work or not,” she added.Chakraborty reportedly resigned after expressing unhappiness with the party's local leadership.Mimi had recently resigned from the membership of two standing committees of parliament. She was a member of the standing committee on industrial affairs of parliament, and also a member of the joint committee of the union ministry of power and ministry of new and renewable energy.Chakraborty also resigned from the post of chairperson of two Rogi Kalyan samitis (hospital management committees) recently.Mimi Chakraborty is an MP from Jadavpur constituency in West Bengal. The development came months ahead of the 2024 Lok Sabha elections.`,
      author: 'Lokesh Sharma',
-     publishedDate: '2024-02-14',
+     publishedDate: 'Feb 15, 2024',
      imageUrl: 'https://i.postimg.cc/nVjZ8mG9/mimi-1707994391041-1707994406209.avif',
      tabId : 'india'
  },
@@ -59,7 +59,7 @@ let articles = [
      title: 'Supreme Court allows withdrawal of 8 petitions against UAPA, approach high court',
      content:`Trinamool Congress leader Mimi Chakraborty has announced her resignation from the post of MP, ANI reported on Thursday. The leader has reportedly handed over her resignation to Trinamool Congress chief Mamata Banerjee.Mimi Chakraborty Speaking about her resignation from the MP post Chakraborty said that though she had resigned her resignation had not been accepted by Mamata Banerjee. "I have definitely resigned, but my resignation hasn't been accepted. I have coordinated with the CM, and she assured me that she will take care of everything," Mimi Chakraborty said.Discover the thrill of cricket like never before, exclusively on HT. Explore now!“Politics is not for me. You have to promote someone here (in politics) if you are helping someone...Besides being a politician, I also work as an actor. I have equal responsibilities. If you join politics, you are criticised whether you work or not,” she added.Chakraborty reportedly resigned after expressing unhappiness with the party's local leadership.Mimi had recently resigned from the membership of two standing committees of parliament. She was a member of the standing committee on industrial affairs of parliament, and also a member of the joint committee of the union ministry of power and ministry of new and renewable energy.Chakraborty also resigned from the post of chairperson of two Rogi Kalyan samitis (hospital management committees) recently.Mimi Chakraborty is an MP from Jadavpur constituency in West Bengal. The development came months ahead of the 2024 Lok Sabha elections.`,
      author: 'Abraham Thomas',
-     publishedDate: '2024-02-15',
+     publishedDate: 'Feb 16, 2024',
      imageUrl: 'https://i.postimg.cc/hthNxWZz/The-petitions-withdrawn-on-Thursday-include-a-publ-1707989788297.avif',
      tabId : 'india'
  },
@@ -68,7 +68,7 @@ let articles = [
      title: 'As mobs try to loot weapons from Manipur armouries, 1 shot dead',
      content: 'Amidst renewed escalation in violence in Manipur, state armouries were targeted again on Tuesday night, resulting in the death of a person who was allegedly in the crowd that attempted to breach one armoury and successful looted another.The state this week has been witnessing intense gunfights, particularly in the peripheral areas of Meitei-majority Imphal East district and Kuki-Zomi-majority Kangpokpi district. As firing continued in different parts on Tuesday, at least two attempts were made by mobs to storm Manipur police establishments.During this, one person died after allegedly attempting to storm the 6th IRB battalion at Pangei in Imphal East on Tuesday night, official sources said. The person was injured when security forces pushed back the mob, and he succumbed to injuries on the way to Jawaharlal Nehru Institute of Medical Sciences.“A large group of people had gathered there at around 10 pm. It can only be deduced that the motive was to seize arms from the establishment… They stormed well into the security perimeter. They broke the gate and entered the armoury area,” said a senior police official.The 5th IRB batallion located in Imphal East’s Thengju Chingjin was also similarly mobbed and a police official confirmed that the mob seized arms and ammunition from there.',
      author: 'Madhan Kumar',
-     publishedDate: '2024-02-13',
+     publishedDate: 'Feb 15, 2024',
      imageUrl: 'https://i.postimg.cc/HWhKQWRw/Manipur.avif',
      tabId : 'india'
  },
@@ -77,7 +77,7 @@ let articles = [
      title: 'Kerala wants Central Act amended so animals that pose threat to human life can be killed',
      content: 'Kerala Assembly on Wednesday passed a resolution urging the Central Government to make necessary amendments in the relevant sections of the Wildlife Protection Act to address the escalating man-animal conflict in the state.The resolution was moved by Forest Minister A K Saseendran under Rule 118 of Procedure and Conduct of Business in the Assembly. The resolution wanted an amendment in the Act so as to grant permission to cull a wild animal which has become a threat to human life and also simplify the norms and procedures accordingly. Besides, it wanted that wild boar, which has posed a major threat to human life and crops in the state, be declared vermin.The resolution sought an amendment to the section 11 (1) (a) of the Act, which empowers the Chief Wildlife Warden to permit any person to kill a wild animal specified in schedule one if the officer feels that it has become dangerous to human life or is severely disabled or sick beyond recovery.The state government wanted that the powers given to the chief wildlife warden be delegated to the chief forest conservators for taking immediate steps.The government wanted wild boar to be declared as vermin as per section 62 of the Act. Once declared vermin, culling of wild boars, which create havoc in agricultural land, would be permitted for a certain period.',
      author: 'Thomas Shelby',
-     publishedDate: '2024-02-15',
+     publishedDate: 'Feb 14, 2024',
      imageUrl: 'https://i.postimg.cc/v8t7s0Lc/elephants-1600-1.avif',
      tabId : 'india'
  },
@@ -167,7 +167,7 @@ let articles = [
   title: 'NYC Mayor Eric Adams files lawsuit against social media platforms for alleged youth mental health crisis',
   content: 'On Wednesday, New York City Mayor Eric Adamss administration took a bold step against social media companies, holding them accountable for contributing to a youth mental health crisis. The lawsuit filed hereby accuses TikTok, Instagram, Facebook (Meta), Snapchat, and YouTube of having a damaging influence on children. The City also created an action plan to address the ongoing crisis.Joining hands with hundreds of school districts and health organisations nationwide, the City seeks to push these tech giants to the edge, compelling them to change their behaviour. The lawsuit was filed in the California Superior Court since the companies are associated with the area.Discover the thrill of cricket like never before, exclusively on HT. Explore now!About the mental health crisis lawsuit against social media platforms filed by NYC Mayor Eric AdamsThe city reportedly spends over $100 million annually on youth mental health programs. Analysing the “addictive and overwhelming” use of the online world over the past decade, Mayor Adams advisory calls out the “non-stop stream of harmful content” that fuels the nationwide youth mental health crisis.Although the advisory acknowledges that New York City is “built on innovation and technology”, these social media platforms have endangered youth mental health as they promote addiction and encourage unsafe behaviour.Corporation Counsel Hinds-Radix also looked down upon these companies, choosing profit and neglecting childrens wellbeing. The advisory recommends to parents, educators, health care providers and other concerned personnel that preventing social media use until age 14 among children can be adopted as a safeguarded means of protection.Countering the allegations, A TikTok representative released a statement claiming that the company upholds “industry-leading safeguards” for teenagers that suggest age restrictions. A Google spokesperson chimed in by denying the allegations. The company claims to have a “healthier experience online” as a core identifier of their work. The representative also highlighted the built-in services for age-appropriate experiences while allowing parents access to robust controls.',
   author: 'Patel',
-  publishedDate: 'Feb 14, 2024',
+  publishedDate: 'Feb 15, 2024',
   imageUrl: 'https://i.postimg.cc/3wB0kFYn/NEW-YORK-HOMELESSNESS-0-1707995819351-1707995850462.avif',
   tabId : 'world'
 },
@@ -176,7 +176,7 @@ let articles = [
   title: 'Kansas City Chiefs Parade Shootout: Was Taylor Swift present? Is the team safe? All your questions answered',
   content: 'Three people were in custody in Kansas City, Missouri, on Thursday, facing questions about what led to a deadly mass shooting near the citys Super Bowl victory rally and who was behind it. At least one person was killed and 21 others wounded by gunfire on Wednesday outside the citys landmark Union Station, where thousands of fans had gathered with the Kansas City Chiefs to celebrate the teams NFL championship triumph over the San Francisco 49ers, authorities said.People flee after shots were fired near the Kansas City Chiefs Super Bowl LVIII victory parade on February 14, 2024, in Kansas City, Missouri. A shooting incident at a packed parade Wednesday to celebrate the Kansas City Chiefs Super Bowl victory killed one person and injured 21 others, police said. (Photo by ANDREW CABALLERO-REYNOLDS / AFP)(AFP)The bloodshed, which came at the end of the rally following a parade, turned the festive occasion into a scene of panic as throngs of attendees scrambled for cover at the sound of rapid-fire gunshots.Discover the thrill of cricket like never before, exclusively on HT. Explore now!Who died in the attack and who was hurt?Local radio station KKFI identified the slain victim as Lisa Lopez, one of its disc jockeys and host of the show "Taste of Tejano." Fifteen other victims suffered life-threatening wounds, Fire Department Chief Ross Grundyson said at a late-afternoon news conference. Eleven of those hurt by gunfire or the ensuing pandemonium were children as young as 6, officials said.Are the team members and staff safe?None of the football team, their coaches or other staff attending the rally was injured, the Chiefs said.',
   author: 'Rakesh Raj',
-  publishedDate: 'Feb 13, 2024',
+  publishedDate: 'Feb 16, 2024',
   imageUrl: 'https://i.postimg.cc/pL1X4cVN/AMFOOT-SUPERBOWL-CHIEFS-SHOOTING-3-1707993317743-1707993366920.avif',
   tabId : 'world'
 },
@@ -194,7 +194,7 @@ let articles = [
   title: 'New Study Reveals Impact of Climate Change on Global Agriculture',
   content: 'A groundbreaking study published today in the prestigious journal Nature reveals alarming trends in global agriculture as a result of climate change. The research, conducted over a decade by an international team of scientists, highlights the profound effects of rising temperatures, erratic weather patterns, and shifting precipitation on crop yields and food security worldwide.Explore the full findings and implications of this critical study, exclusively on our platform. Join now!According to the study, staple crops such as wheat, rice, and maize are experiencing significant declines in productivity across multiple regions. Extreme heatwaves, prolonged droughts, and increased frequency of pests and diseases are identified as primary contributors to yield losses, exacerbating existing challenges faced by farmers and communities.The implications of these findings are dire, with millions of livelihoods at risk and global food supply chains under increasing strain. The study underscores the urgent need for coordinated action to mitigate the impacts of climate change on agriculture, including investment in resilient farming practices, innovative technologies, and policy interventions.Join leading experts and policymakers in a virtual panel discussion on the future of agriculture in a changing climate. Reserve your spot now to be part of this crucial conversation.',
   author: 'Emily Thompson',
-  publishedDate: 'Feb 15, 2024',
+  publishedDate: 'Feb 12, 2024',
   imageUrl: 'https://i.postimg.cc/G3QBzQDR/OIP-1.jpg',
   tabId : 'world'
 },
@@ -212,7 +212,7 @@ let articles = [
   title: 'Major Diplomatic Breakthrough: Historic Peace Agreement Signed in the Middle East',
   content: 'In a historic development, leaders from across the Middle East have signed a landmark peace agreement aimed at ending decades of conflict and division in the region. The agreement, brokered by international mediators, represents a significant step towards lasting peace and stability.Join our platform for in-depth analysis and exclusive interviews with key negotiators, diplomats, and regional leaders involved in the peace process. Explore the implications of this historic agreement for the Middle East and the wider world, as well as the challenges and opportunities ahead for peacebuilding and reconciliation.Highlighting the importance of dialogue and cooperation, representatives from participating countries expressed optimism about the prospects for a new era of cooperation and prosperity in the region. The agreement includes provisions for mutual recognition, security cooperation, and economic development, laying the foundation for a comprehensive peace framework.Celebrate this historic moment with stories of hope and resilience from communities affected by conflict, as well as insights from peacebuilders and activists working towards a brighter future. Join the conversation and share your thoughts on the significance of this breakthrough for global peace and security.',
   author: 'Mohammed Al-Farsi',
-  publishedDate: 'Feb 15, 2024',
+  publishedDate: 'Feb 16, 2024',
   imageUrl: 'https://i.postimg.cc/y6FGGJ6s/OIP-4.jpg',
   tabId: 'world'
 },
@@ -221,7 +221,7 @@ let articles = [
   title: 'Global Efforts Intensify to Combat Climate Change Amidst Rising Concerns',
   content: 'Amidst growing concerns over the escalating climate crisis, world leaders have ramped up efforts to combat climate change through ambitious policy measures and international cooperation. With the urgency of the situation becoming increasingly apparent, governments, businesses, and civil society organizations are mobilizing to address the root causes of climate change and mitigate its impacts.Join our platform for comprehensive coverage of global climate action initiatives, featuring interviews with climate experts, updates on key policy developments, and insights into innovative solutions for a sustainable future. Explore the latest climate science findings, highlighting the urgency of reducing greenhouse gas emissions and adapting to the changing climate.Realizing the interconnectedness of environmental, social, and economic challenges, leaders are embracing a holistic approach to climate action, integrating sustainability principles into policymaking and business practices. From renewable energy investments to nature-based solutions, explore the diverse strategies being deployed to transition to a low-carbon and resilient society.Take part in the global conversation on climate change, sharing your ideas and experiences for building a more sustainable and equitable world. Together, we can drive meaningful change and safeguard the planet for future generations.',
   author: 'Emma Johnson',
-  publishedDate: 'Feb 15, 2024',
+  publishedDate: 'Feb 12, 2024',
   imageUrl: 'https://i.postimg.cc/Hkf4H23K/download.jpg',
   tabId: 'world'
 },
@@ -230,7 +230,7 @@ let articles = [
   title: 'Excitement Builds as World Cup Qualifiers Enter Final Stage',
   content: 'With the World Cup qualifiers entering their final stage, excitement is reaching fever pitch among football fans worldwide. As teams vie for a coveted spot in the tournament, the stakes have never been higher.Join our platform for extensive coverage of the World Cup qualifiers, including match previews, live updates, and post-game analysis from renowned sports journalists and analysts. Get exclusive access to player interviews, team strategies, and expert predictions as the competition heats up.Experience the thrill of the beautiful game with highlights from key matches, showcasing the skills and determination of top footballing nations. From dramatic last-minute goals to nail-biting penalty shootouts, relive the unforgettable moments that define the quest for World Cup glory.Celebrate the passion and diversity of football culture with stories from fans around the world, sharing their experiences and traditions as they rally behind their favorite teams. Join the global football community in cheering on your nation and witnessing history in the making as the road to the World Cup unfolds.',
   author: 'Daniel Smith',
-  publishedDate: 'Feb 15, 2024',
+  publishedDate: 'Feb 11, 2024',
   imageUrl: 'https://i.postimg.cc/XvsHwhbP/download-1.jpg',
   tabId: 'sports'
 },
@@ -239,7 +239,7 @@ let articles = [
   title: 'Tennis Superstars Set to Clash in Highly Anticipated Grand Slam Final',
   content: 'Tennis fans around the world are eagerly awaiting the showdown between two titans of the sport in the upcoming Grand Slam final. With both players in peak form and determined to claim victory, anticipation is at an all-time high.Join our platform for extensive coverage of the Grand Slam final, featuring expert analysis, player profiles, and live updates from the prestigious tournament. Experience the thrill of every serve, volley, and rally as the world\'s best tennis players compete for glory on the biggest stage.Witness history in the making as records are broken and champions are crowned in front of a global audience of millions. From breathtaking rallies to clutch performances under pressure, the final promises to deliver unforgettable moments that will be etched in tennis lore for years to come.Join the conversation with fellow tennis enthusiasts, sharing your predictions, reactions, and favorite memories from past Grand Slam finals. Whether you\'re a die-hard fan or a casual observer, don\'t miss out on the excitement of this epic clash between tennis superstars.',
   author: 'Sophie Martinez',
-  publishedDate: 'Feb 15, 2024',
+  publishedDate: 'Feb 13, 2024',
   imageUrl: 'https://i.postimg.cc/054ggzh4/OIP-5.jpg',
   tabId: 'sports',
 },
@@ -248,7 +248,7 @@ let articles = [
   title: 'NBA Finals: Teams Gear Up for Epic Showdown in Decisive Game 7',
   content: 'The NBA Finals are reaching a thrilling climax as two powerhouse teams prepare to face off in a decisive Game 7. With the championship on the line, anticipation is mounting among basketball fans worldwide.Join our platform for extensive coverage of the NBA Finals, including expert analysis, player interviews, and live updates from the electrifying series. Experience the intensity of every dribble, shot, and block as the league\'s top athletes leave it all on the court in pursuit of basketball immortality.Witness history in the making as iconic moments unfold and legends are born in front of a global audience of millions. From clutch three-pointers to game-winning dunks, Game 7 promises to deliver edge-of-your-seat action that will be remembered for generations.Join the conversation with fellow basketball aficionados, sharing your predictions, reactions, and favorite highlights from the NBA Finals. Whether you bleed team colors or simply love the game, don\'t miss out on the excitement of this epic showdown between basketball giants.',
   author: 'Michael Johnson',
-  publishedDate: 'Feb 15, 2024',
+  publishedDate: 'Feb 14, 2024',
   imageUrl: 'https://i.postimg.cc/05YtnbPm/OIP-6.jpg',
   tabId: 'sports'
 },
@@ -275,7 +275,7 @@ let articles = [
   title: 'Olympic Games: Athletes Prepare for Tokyo 2024 with High Hopes and Determination',
   content: 'As the world eagerly anticipates the Tokyo 2024 Olympic Games, athletes from around the globe are gearing up for the opportunity to compete on the biggest stage in sports. With dreams of glory and national pride at stake, preparations are in full swing.Join our platform for exclusive coverage of the road to Tokyo 2024, featuring interviews with Olympic hopefuls, insights from coaches and trainers, and behind-the-scenes access to training camps and qualifiers. Get to know the athletes who will represent their countries and witness their journey as they strive for excellence.Experience the excitement and drama of the Olympic Games as athletes compete across a wide range of sports, from track and field to swimming, gymnastics, and beyond. Follow the medal race closely and cheer for your favorite athletes as they vie for gold, silver, and bronze on the world stage.Join the global community of sports fans in celebrating the Olympic spirit and supporting athletes from all corners of the world. Whether it\'s a record-breaking performance, a heartwarming underdog story, or a display of sportsmanship and camaraderie, the Tokyo 2024 Olympics promise to inspire and unite us all.',
   author: 'Jessica Lee',
-  publishedDate: 'Feb 15, 2024',
+  publishedDate: 'Feb 16, 2024',
   imageUrl: 'https://i.postimg.cc/j21Q20yH/OIP-9.jpg',
   tabId: 'sports'
 },
@@ -284,7 +284,7 @@ let articles = [
   title: 'Kabaddi World Cup: Teams Prepare for Intense Battles in the Group Stage',
   content: 'Kabaddi enthusiasts around the globe are eagerly awaiting the start of the Kabaddi World Cup, where teams from various countries will compete in thrilling matches of skill and strategy. With the stage set for intense battles in the group stage, excitement is at an all-time high.Join our platform for comprehensive coverage of the Kabaddi World Cup group stage, featuring match previews, live updates, and post-match analysis from Kabaddi experts and former players. Gain insights into team dynamics, player performances, and the quest for glory as nations vie for supremacy in the sport.Experience the adrenaline-pumping action of Kabaddi as athletes showcase their agility, strength, and tactical prowess on the mat. From lightning-fast raids to strategic defensive maneuvers, every match promises moments of excitement and anticipation.Join the global Kabaddi community in celebrating the spirit of the sport and supporting your favorite teams on their journey to Kabaddi World Cup glory. Whether youre a seasoned fan or new to the sport, dont miss out on the thrills and drama of this prestigious tournament.',
   author: 'Priya Singh',
-  publishedDate: 'Feb 15, 2024',
+  publishedDate: 'Feb 13, 2024',
   imageUrl: 'https://i.postimg.cc/BvJDqQdW/OIP-10.jpg',
   tabId: 'sports'
 },
@@ -300,16 +300,16 @@ let articles = [
 {
   id: 35,
   title: 'New Study Reveals Impact of Online Learning on Student Performance',
-  content: 'A groundbreaking study published in the Journal of Educational Psychology sheds light on the impact of online learning on student performance...',
+  content: 'A recent study sheds light on the impact of online learning on student performance, offering valuable insights into this increasingly prevalent educational approach. The findings indicate both advantages and challenges associated with online learning. While some students thrive in the online environment, demonstrating improved performance and flexibility, others face obstacles such as digital distractions and limited access to resources. Factors such as socio-economic background and technological proficiency play significant roles in shaping student outcomes. Additionally, the study underscores the importance of effective teaching strategies and support systems in maximizing the benefits of online learning. Overall, the research underscores the need for tailored approaches to accommodate diverse learning styles and ensure equitable access to education in the digital age.',
   author: 'Emma Thompson',
-  publishedDate: 'Feb 15, 2024',
+  publishedDate: 'Feb 13, 2024',
   imageUrl: 'https://i.postimg.cc/Kzks5NQD/download-2.jpg',
   tabId: 'education'
 },
 {
   id: 36,
   title: 'Researchers Develop Promising Vaccine Candidate for Malaria',
-  content: 'In a significant breakthrough, researchers have developed a promising vaccine candidate for malaria...',
+  content: 'Researchers have developed a promising vaccine candidate for malaria, marking a significant milestone in the fight against this deadly disease. The vaccine shows great potential in providing protection against malaria, a mosquito-borne illness that affects millions of people worldwide, particularly in tropical regions. Early trials demonstrate encouraging results, indicating the vaccines ability to stimulate the immune system and generate robust immunity against the malaria parasite. This breakthrough brings hope for reducing malaria-related morbidity and mortality, especially among vulnerable populations such as children and pregnant women. Further research and clinical trials are underway to assess the vaccines safety, efficacy, and scalability. If successful, this vaccine could potentially save countless lives and contribute to the global effort to eradicate malaria.',
   author: 'David Miller',
   publishedDate: 'Feb 15, 2024',
   imageUrl: 'https://i.postimg.cc/Bb3c1cz6/OIP-11.jpg',
@@ -318,34 +318,34 @@ let articles = [
 {
   id: 37,
   title: 'New AI Algorithm Achieves Breakthrough in Natural Language Processing',
-  content: 'Researchers have developed a groundbreaking AI algorithm that has achieved a major breakthrough in natural language processing...',
+  content: "A groundbreaking AI algorithm has emerged, marking a significant leap forward in Natural Language Processing (NLP). This novel algorithm surpasses its predecessors in various NLP tasks, including text generation, sentiment analysis, and language translation. Notable for its efficiency, it boasts faster processing times and reduced computational requirements. Moreover, it exhibits enhanced accuracy in comprehending and generating human-like language, promising more authentic interactions between humans and machines. The implications of this breakthrough are vast, spanning across diverse fields such as chatbots, virtual assistants, and automated content creation. With its arrival, the landscape of NLP applications is poised for transformation, paving the way for more sophisticated and intuitive human-machine interactions. This advancement holds the potential to revolutionize how we communicate with technology, enhancing user experiences and driving productivity to new heights.",
   author: 'Sophie Williams',
-  publishedDate: 'Feb 15, 2024',
+  publishedDate: 'Feb 14, 2024',
   imageUrl: 'https://i.postimg.cc/xjscm3h4/OIP-12.jpg',
   tabId: 'education'
 },
 {
   id: 38,
   title: 'Tech Giants Report Record Profits Amidst Market Turbulence',
-  content: 'Despite market turbulence, tech giants have reported record profits for the latest fiscal quarter, surpassing analysts\' expectations...',
+  content: 'Tech giants have reported record profits amidst market turbulence, showcasing their resilience and adaptability in volatile economic conditions. Despite challenges posed by global uncertainties, including supply chain disruptions and geopolitical tensions, leading technology companies have demonstrated robust performance in generating revenue and maximizing shareholder value. The success of these firms can be attributed to various factors, including innovative product offerings, digital transformation initiatives, and strong market positions. Additionally, increased reliance on technology amid the pandemic has bolstered demand for digital services and products, further fueling the profitability of tech giants. However, their exceptional performance amidst market turbulence also raises concerns about their market dominance and potential regulatory scrutiny. As these companies continue to thrive, stakeholders closely monitor their actions and the broader implications for the economy and society.',
   author: 'Michael Johnson',
-  publishedDate: 'Feb 15, 2024',
+  publishedDate: 'Feb 16, 2024',
   imageUrl: 'https://i.postimg.cc/Hktxp0wz/OIP-13.jpg',
   tabId: 'education'
 },
 {
   id: 39,
   title: 'New Educational App Revolutionizes Learning Experience for Students',
-  content: 'A new educational app is revolutionizing the learning experience for students by providing interactive lessons, quizzes, and personalized study plans tailored to individual learning styles...',
+  content: 'A new educational app is revolutionizing the learning experience for students by offering interactive lessons, quizzes, and personalized study plans tailored to individual learning styles. Through its innovative features, such as adaptive learning algorithms and real-time feedback, the app engages students in a dynamic and immersive learning environment. By catering to diverse learning preferences, it fosters deeper understanding and retention of concepts. Additionally, the app promotes self-directed learning, empowering students to progress at their own pace and explore topics of interest. With its user-friendly interface and accessible content, it democratizes education, reaching students across different demographics and geographical locations. Furthermore, the app facilitates collaboration and knowledge sharing among peers, creating a vibrant online community of learners. As a result, it not only enhances academic performance but also cultivates critical thinking skills and lifelong learning habits. This groundbreaking approach to education heralds a new era of personalized and interactive learning, promising to shape the future of education.',
   author: 'Sarah Johnson',
-  publishedDate: 'Feb 15, 2024',
+  publishedDate: 'Feb 16, 2024',
   imageUrl: 'https://i.postimg.cc/Nfj3S1Nm/OIP-14.jpg',
   tabId: 'education'
 },
 {
   id: 40,
   title: 'Study Abroad Programs See Surge in Applications Despite Pandemic Challenges',
-  content: 'Despite the challenges posed by the pandemic, study abroad programs are experiencing a surge in applications as students seek international learning opportunities and cultural experiences...',
+  content: 'Despite the challenges posed by the pandemic, study abroad programs are experiencing a surge in applications as students increasingly seek international learning opportunities and cultural experiences. This trend underscores the enduring appeal of studying abroad and the resilience of global education despite uncertainties. Despite travel restrictions and health concerns, students are drawn to the enriching experiences offered by studying in foreign countries. Many see it as a chance to broaden their horizons, gain valuable cross-cultural perspectives, and enhance their academic and personal development. Additionally, the availability of hybrid and virtual study abroad options has made international education more accessible to students who may face logistical or financial constraints. Institutions and program providers have adapted swiftly to meet the evolving needs of students, implementing rigorous health and safety protocols and offering flexible learning arrangements. As the world gradually recovers from the pandemic, the resurgence of interest in study abroad programs signals a renewed commitment to global engagement and intercultural exchange among students worldwide.',
   author: 'David Smith',
   publishedDate: 'Feb 15, 2024',
   imageUrl: 'https://i.postimg.cc/tCg3LzL3/OIP-15.jpg',
@@ -354,18 +354,18 @@ let articles = [
 {
   id: 41,
   title: 'Universities Collaborate on Research Initiative to Address Climate Change',
-  content: 'Leading universities have announced a collaborative research initiative aimed at addressing climate change through interdisciplinary studies and innovative solutions...',
+  content: 'Leading universities have announced a collaborative research initiative aimed at addressing climate change through interdisciplinary studies and innovative solutions. This groundbreaking collaboration brings together experts from various fields, including science, engineering, social sciences, and policy, to tackle the complex challenges posed by climate change. By leveraging diverse perspectives and expertise, the initiative seeks to advance our understanding of climate change impacts, mitigation strategies, and adaptation measures. Through collaborative research projects, the participating universities aim to develop cutting-edge technologies, policies, and practices to combat climate change effectively. The initiative also emphasizes the importance of engaging with stakeholders, including government agencies, industry partners, and local communities, to ensure the real-world impact of research outcomes. By fostering collaboration and knowledge exchange, this initiative aims to accelerate progress towards a sustainable and resilient future for our planet. As climate change continues to pose significant threats to our environment and society, the collective efforts of leading universities play a crucial role in driving meaningful change and shaping a more sustainable world.',
   author: 'Emma Williams',
-  publishedDate: 'Feb 15, 2024',
+  publishedDate: 'Feb 14, 2024',
   imageUrl: 'https://i.postimg.cc/nV5HKFYv/OIP-16.jpg',
   tabId: 'education'
 },
 {
   id: 42,
   title: 'New Study Analyzes Impact of Arts Education on Cognitive Development',
-  content: 'A new study conducted by researchers at renowned universities analyzes the impact of arts education on cognitive development and academic performance in students...',
+  content: 'A new study conducted by researchers at renowned universities analyzes the impact of arts education on cognitive development and academic performance in students. This groundbreaking research explores the correlation between exposure to arts education and various cognitive skills, such as critical thinking, creativity, and problem-solving abilities. By examining longitudinal data and conducting comprehensive assessments, the study aims to provide empirical evidence of the benefits of arts education in enhancing academic outcomes and overall cognitive development. Additionally, researchers investigate the role of arts integration across different academic disciplines and its potential to foster interdisciplinary learning and engagement. The findings of this study have far-reaching implications for education policymakers, curriculum designers, and educators, highlighting the importance of prioritizing arts education in schools to promote holistic development and academic success. As the debate over the importance of arts education continues, this research contributes valuable insights into its positive impact on students cognitive abilities and academic achievement, advocating for its inclusion as an integral component of a well-rounded education.',
   author: 'Michael Brown',
-  publishedDate: 'Feb 15, 2024',
+  publishedDate: 'Feb 13, 2024',
   imageUrl: 'https://i.postimg.cc/GmZB2P9s/OIP-17.jpg',
   tabId: 'education'
 },
@@ -374,7 +374,7 @@ let articles = [
   title: 'Day 3 protest: Farmers to block trains today, hold round 3 talks with Centre',
   content: 'Farmers Delhi Chalo protest: 3 Union ministers will meet farmers leaders in Chandigarh for the third round of talks amid stand-off at Haryana, Punjab borders.Several major farmers’ unions have extended their support to the protesting farmer unions at Shambhu border and Khanauri border in Punjab, with the Bharatiya Kisan Union (Ugrahan) and BKU Dakaunda (Dhaner faction) announcing a ‘rail roko’ (stop trains) in the state on Thursday between 12 noon and 4 pm on Thursday, February 15. The Samyukt Kisan Morcha, an umbrella body of 37 farm unions, have also supported the ongoing protests. The protesters are demanding a minimum support price or MSP for their crops.A protester uses water to disperse tear gas, as farmers march towards New Delhi to press for better crop prices promised to them in 2021, at Shambhu, a border crossing between Punjab and Haryana. (REUTERS)A protester uses water to disperse tear gas, as farmers march towards New Delhi to press for better crop prices promised to them in 2021, at Shambhu, a border crossing between Punjab and Haryana. (REUTERS)These unions had played key roles in the protests on Delhi’s fringes in 2021 and have joined the current protests citing the “condemnable use of violence” against farmers. BKU (Ugrahan) general secretary Sukhdev Singh Kokri Kalan has slammed the police action.Discover the thrill of cricket like never before, exclusively on HT. Explore now! “We stand with them in solidarity. To prove it, our supporters will hold rail roko (stop trains) at as many places as we can,” he announced. The organisation will block train tracks in Punjab between 12pm and 4pm on Thursday, he said, a day before the larger nationwide strike planned for February 16. Follow Live Updates on farmers protest',
   author: 'Deebak Kumar',
-  publishedDate: '2024-02-15',
+  publishedDate: 'Updated 3 hours ago',
   imageUrl: 'https://i.postimg.cc/Bb7xRrS1/INDIA-FARMERS-PROTESTS-28-1707958565170-1707958594541.avif',
   tabId : 'latest'
 },
@@ -383,7 +383,7 @@ let articles = [
   title: 'Maharashtra Speaker rejects plea to disqualify MLAs of Ajit Pawar faction',
   content: `Maharashtra Assembly Speaker Rahul Narwekar on Thursday dismissed the petitions to disqualify MLAs belonging to Ajit Pawa'sr faction, ruling that his faction substantially outnumbered the Sharad Pawar faction in the state legislature.NCP founder-leader Sharad Pawar and nephew Ajit Pawar (left).NCP founder-leader Sharad Pawar and nephew Ajit Pawar (left).“I hold that the Ajit Pawar faction enjoys an overwhelming majority within the NCP,” Narwekar declared while delivering a verdict on the disqualification petitions filed by the two factions within the Nationalist Congress Party (NCP) against each other.`,
   author: 'Patel',
-  publishedDate: '2024-02-12',
+  publishedDate: 'Updated 2 houres ago',
   imageUrl: 'https://i.postimg.cc/brYxKPKq/ajit-pawar-sharad-pawar-ncp-mla-1707996459277-1707996459456.jpg',
   tabId : 'latest'
 },

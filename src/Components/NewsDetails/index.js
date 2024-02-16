@@ -8,6 +8,7 @@ const NewsDetails = props => {
   const newsIdData = articles.find(data => data.id === parseInt(id));
   const { title, content, author, publishedDate, imageUrl } = newsIdData;
 
+
   return (
     <div className='news-container'>
         <div className="news-info shadow rounded my-3">
@@ -15,8 +16,8 @@ const NewsDetails = props => {
             <img className="news-image" src={imageUrl} alt={title} />
             <p className="news-content">{content}</p>
             <div className="author-details">
-                <p className='news-date'>Published at {publishedDate},</p>
-                <p className="author-name"> By {author}.</p>
+                <p className="author-name"> By {author},</p>
+                <p className='news-date'> {publishedDate}.</p>
             </div>
         </div>
     </div>
